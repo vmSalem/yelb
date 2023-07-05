@@ -10,5 +10,4 @@ spec:
       - path:
         backend:
           serviceName: yelb-ui
-          servicePort: 443
-~                         
+          servicePort: 443                         
